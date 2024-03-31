@@ -16,6 +16,7 @@
 					loop
 					muted
 					class="rounded-l-md rounded-b-md max-w-1/2 drop-shadow-3xl shadow-blue-600/15 shadow-3xl"
+					controls
 				>
 					<source src="/klockworks_showreel.mp4" type="video/mp4" />
 				</video>
