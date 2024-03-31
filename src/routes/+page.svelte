@@ -9,7 +9,7 @@
 
 	<div class="static w-full z-10">
 		<div class="h-full flex flex-col items-center">
-			<img src="/kw_lofo_full_white.png" class="w-1/2 md:w-1/4 mt-20" alt="Klockworks logo" />
+			<img src="/kw_lofo_full_white.png" class="w-2/3 md:w-1/4 mt-20" alt="Klockworks logo" />
 			<div class="w-full px-4 sm:w-1/2 mt-10 flex flex-col items-center">
 				<video
 					autoplay
